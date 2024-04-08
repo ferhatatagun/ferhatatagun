@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ferhat<br><br>I am a constantly improving software developer living in Turkey/Istanbul, working as a Frontend Developer within Netmera. I love being a part of the development of web technologies.
+Hi 👋, I'm Ferhat<br><br>I am a constantly improving software developer living in Turkey/Istanbul, working as a Frontend Developer within HangiKredi. I love being a part of the development of web technologies.
 
 
 ## 🌐 Socials:
