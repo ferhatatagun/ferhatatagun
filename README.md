@@ -41,12 +41,12 @@ prompt caching, token economics, and agent tool-loops, made visual.
       <p>X-ray your Claude API calls — prompt caching, token composition and cost, visualized live as the response streams.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://agent-replay.vercel.app">
+      <a href="https://agentreplay.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/agent-replay/main/docs/replay.gif" alt="agent-replay" />
       </a>
       <h4>
         <a href="https://github.com/ferhatatagun/agent-replay">agent-replay</a>
-        &nbsp;·&nbsp;<a href="https://agent-replay.vercel.app">live ↗</a>
+        &nbsp;·&nbsp;<a href="https://agentreplay.vercel.app">live ↗</a>
       </h4>
       <p>Replay a Claude agent's tool-calling loop step by step on a cinematic timeline.</p>
     </td>
