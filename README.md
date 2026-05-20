@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=F0A06B&center=true&vCenter=true&width=640&lines=Frontend+Developer+%40+HangiKredi;Developer+tools+that+make+AI+legible;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Tailwind" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=F0A06B&center=true&vCenter=true&width=640&lines=Frontend+Team+Lead+%40+HangiKredi;Developer+tools+that+make+AI+legible;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Tailwind" alt="typing" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 👋 About
 
-Frontend developer in Istanbul, working at **HangiKredi**. I build interfaces
+Frontend team lead in Istanbul, at **HangiKredi**. I build interfaces
 for AI — turning model behaviour into something you can *see* and reason about.
 
 Lately I've been building developer tools that make the Claude API legible:
