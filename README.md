@@ -30,41 +30,35 @@ prompt caching, token economics, and agent tool-loops, made visual.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://claudoscope.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/claudoscope/main/docs/preview.png" alt="claudoscope" />
       </a>
       <h4>
         <a href="https://github.com/ferhatatagun/claudoscope">claudoscope</a>
-        &nbsp;·&nbsp;
-        <a href="https://claudoscope.vercel.app">live ↗</a>
+        &nbsp;·&nbsp;<a href="https://claudoscope.vercel.app">live ↗</a>
       </h4>
-      <p>
-        X-ray your Claude API calls — prompt caching, token composition and
-        cost, visualized live as the response streams. BYOK, zero backend.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
+      <p>X-ray your Claude API calls — prompt caching, token composition and cost, visualized live as the response streams.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://agent-replay.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/agent-replay/main/docs/replay.gif" alt="agent-replay" />
       </a>
       <h4>
         <a href="https://github.com/ferhatatagun/agent-replay">agent-replay</a>
-        &nbsp;·&nbsp;
-        <a href="https://agent-replay.vercel.app">live ↗</a>
+        &nbsp;·&nbsp;<a href="https://agent-replay.vercel.app">live ↗</a>
       </h4>
-      <p>
-        Replay a Claude agent's tool-calling loop step by step on a cinematic
-        timeline — every thought, tool call and result. No key, no backend.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
+      <p>Replay a Claude agent's tool-calling loop step by step on a cinematic timeline.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://prompt-lab.vercel.app">
+        <img src="https://raw.githubusercontent.com/ferhatatagun/prompt-lab/main/docs/preview.png" alt="prompt-lab" />
+      </a>
+      <h4>
+        <a href="https://github.com/ferhatatagun/prompt-lab">prompt-lab</a>
+        &nbsp;·&nbsp;<a href="https://prompt-lab.vercel.app">live ↗</a>
+      </h4>
+      <p>A/B test prompts side by side — one input, two variants, compared on cost and latency.</p>
     </td>
   </tr>
 </table>
