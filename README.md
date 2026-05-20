@@ -31,12 +31,12 @@ prompt caching, token economics, and agent tool-loops, made visual.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://claudoscope.vercel.app">
+      <a href="https://claudoscope-labs.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/claudoscope/main/docs/preview.png" alt="claudoscope" />
       </a>
       <h4>
         <a href="https://github.com/ferhatatagun/claudoscope">claudoscope</a>
-        &nbsp;·&nbsp;<a href="https://claudoscope.vercel.app">live ↗</a>
+        &nbsp;·&nbsp;<a href="https://claudoscope-labs.vercel.app">live ↗</a>
       </h4>
       <p>X-ray your Claude API calls — prompt caching, token composition and cost, visualized live as the response streams.</p>
     </td>
