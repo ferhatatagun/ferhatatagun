@@ -51,12 +51,12 @@ prompt caching, token economics, and agent tool-loops, made visual.
       <p>Replay a Claude agent's tool-calling loop step by step on a cinematic timeline.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://prompt-lab.vercel.app">
+      <a href="https://prompt-lab-promptly.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/prompt-lab/main/docs/preview.png" alt="prompt-lab" />
       </a>
       <h4>
         <a href="https://github.com/ferhatatagun/prompt-lab">prompt-lab</a>
-        &nbsp;·&nbsp;<a href="https://prompt-lab.vercel.app">live ↗</a>
+        &nbsp;·&nbsp;<a href="https://prompt-lab-promptly.vercel.app">live ↗</a>
       </h4>
       <p>A/B test prompts side by side — one input, two variants, compared on cost and latency.</p>
     </td>
