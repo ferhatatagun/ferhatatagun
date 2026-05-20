@@ -50,7 +50,7 @@ prompt caching, token economics, and agent tool-loops, made visual.
     </td>
     <td width="50%" valign="top">
       <a href="https://agent-replay.vercel.app">
-        <img src="https://raw.githubusercontent.com/ferhatatagun/agent-replay/main/docs/preview.png" alt="agent-replay" />
+        <img src="https://raw.githubusercontent.com/ferhatatagun/agent-replay/main/docs/replay.gif" alt="agent-replay" />
       </a>
       <h4>
         <a href="https://github.com/ferhatatagun/agent-replay">agent-replay</a>
