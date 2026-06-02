@@ -22,7 +22,8 @@ Frontend team lead in Istanbul, at **HangiKredi**. I build interfaces
 for AI — turning model behaviour into something you can *see* and reason about.
 
 Lately I've been building developer tools that make the Claude API legible:
-prompt caching, token economics, and agent tool-loops, made visual.
+prompt caching, token economics, agent tool-loops and interactive sandboxes —
+all in the open.
 
 ---
 
@@ -30,7 +31,7 @@ prompt caching, token economics, and agent tool-loops, made visual.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://claudoscope-labs.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/claudoscope/main/docs/preview.png" alt="claudoscope" />
       </a>
@@ -40,7 +41,7 @@ prompt caching, token economics, and agent tool-loops, made visual.
       </h4>
       <p>X-ray your Claude API calls — prompt caching, token composition and cost, visualized live as the response streams.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://agentreplay.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/agent-replay/main/docs/replay.gif" alt="agent-replay" />
       </a>
@@ -50,7 +51,9 @@ prompt caching, token economics, and agent tool-loops, made visual.
       </h4>
       <p>Replay a Claude agent's tool-calling loop step by step on a cinematic timeline.</p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://prompt-lab-promptly.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/prompt-lab/main/docs/preview.png" alt="prompt-lab" />
       </a>
@@ -59,6 +62,16 @@ prompt caching, token economics, and agent tool-loops, made visual.
         &nbsp;·&nbsp;<a href="https://prompt-lab-promptly.vercel.app">live ↗</a>
       </h4>
       <p>A/B test prompts side by side — one input, two variants, compared on cost and latency.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://claude-tool-lab.vercel.app">
+        <img src="https://raw.githubusercontent.com/ferhatatagun/tool-lab/main/docs/preview.png" alt="tool-lab" />
+      </a>
+      <h4>
+        <a href="https://github.com/ferhatatagun/tool-lab">tool-lab</a>
+        &nbsp;·&nbsp;<a href="https://claude-tool-lab.vercel.app">live ↗</a>
+      </h4>
+      <p>Interactive Claude tool-use sandbox — define tools, mock the responses, watch the agent loop live.</p>
     </td>
   </tr>
 </table>
