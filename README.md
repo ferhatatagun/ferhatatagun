@@ -64,12 +64,12 @@ all in the open.
       <p>A/B test prompts side by side — one input, two variants, compared on cost and latency.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://claude-tool-lab.vercel.app">
+      <a href="https://tool-lab-bice.vercel.app">
         <img src="https://raw.githubusercontent.com/ferhatatagun/tool-lab/main/docs/preview.png" alt="tool-lab" />
       </a>
       <h4>
         <a href="https://github.com/ferhatatagun/tool-lab">tool-lab</a>
-        &nbsp;·&nbsp;<a href="https://claude-tool-lab.vercel.app">live ↗</a>
+        &nbsp;·&nbsp;<a href="https://tool-lab-bice.vercel.app">live ↗</a>
       </h4>
       <p>Interactive Claude tool-use sandbox — define tools, mock the responses, watch the agent loop live.</p>
     </td>
