@@ -74,7 +74,23 @@ all in the open.
       <p>Interactive Claude tool-use sandbox — define tools, mock the responses, watch the agent loop live.</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://context-lens-sigma.vercel.app">
+        <img src="https://raw.githubusercontent.com/ferhatatagun/context-lens/main/docs/preview.png" alt="context-lens" />
+      </a>
+      <h4>
+        <a href="https://github.com/ferhatatagun/context-lens">context-lens</a>
+        &nbsp;·&nbsp;<a href="https://context-lens-sigma.vercel.app">live ↗</a>
+      </h4>
+      <p>See a Claude prompt before you ship it — token breakdown, context-window position, cost estimate, prompt-caching boundaries. Pre-flight to claudoscope's post-hoc x-ray.</p>
+    </td>
+  </tr>
 </table>
+
+<p align="center">
+  <sub>Long-form posts on each tool: <a href="https://ferhatatagun.com/blog">ferhatatagun.com/blog</a> · Suite overview: <a href="https://ferhatatagun.com/tools">ferhatatagun.com/tools</a></sub>
+</p>
 
 ---
 
