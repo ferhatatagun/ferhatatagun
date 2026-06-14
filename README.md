@@ -1,33 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a06b,100:6ba8f0&height=160&section=header&text=Ferhat%20Atag%C3%BCn&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn" alt="Ferhat Atagün" />
+  <samp>
+    ╭─ ferhat@atagun ───────────────────────────────────────────╮<br/>
+    │  Frontend Team Lead · AI-Native Frontend Engineer         │<br/>
+    │  Istanbul · HangiKredi · open to AI-native frontend work  │<br/>
+    ╰───────────────────────────────────────────────────────────╯
+  </samp>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=F0A06B&center=true&vCenter=true&width=640&lines=Frontend+Team+Lead+%40+HangiKredi;Developer+tools+that+make+AI+legible;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Tailwind" alt="typing" />
-</p>
-
-<p align="center">
-  <a href="https://ferhatatagun.com"><img src="https://img.shields.io/badge/Website-ferhatatagun.com-f0a06b?style=for-the-badge&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/ferhatatagun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/ferhatatagun"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://medium.com/@ferhatatagun"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://behance.net/ferhatatagun"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://ferhatatagun.com"><img alt="site" src="https://img.shields.io/badge/site-ferhatatagun.com-a78bfa?style=flat-square&labelColor=18181b" /></a>
+  <a href="https://ferhatatagun.com/blog"><img alt="blog" src="https://img.shields.io/badge/blog-AI%20%26%20dev%20notes-a78bfa?style=flat-square&labelColor=18181b" /></a>
+  <a href="https://dev.to/ferhatatagun"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-ferhatatagun-a78bfa?style=flat-square&labelColor=18181b&logo=devdotto&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ferhatatagun"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-ferhatatagun-a78bfa?style=flat-square&labelColor=18181b&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/ferhatatagun"><img alt="x" src="https://img.shields.io/badge/x-ferhatatagun-a78bfa?style=flat-square&labelColor=18181b&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👋 About
+### `$ whoami`
 
-Frontend team lead in Istanbul, at **HangiKredi**. I build interfaces
-for AI — turning model behaviour into something you can *see* and reason about.
+Frontend team lead in Istanbul, at **HangiKredi**. I build interfaces for AI —
+turning model behaviour into something you can *see* and reason about.
 
-Lately I've been building developer tools that make the Claude API legible:
-prompt caching, token economics, agent tool-loops and interactive sandboxes —
-all in the open.
+Lately I've been shipping a small suite of browser-only developer tools that
+make the Anthropic Claude API legible: prompt caching, token economics,
+agent tool-loops, side-by-side prompt A/B, and pre-flight token counting.
+All BYOK, no backend, source open.
 
 ---
 
-### 🚀 Featured projects
+### `$ ls -la /tools`
 
 <table>
   <tr>
@@ -88,42 +90,27 @@ all in the open.
   </tr>
 </table>
 
-<p align="center">
-  <sub>Long-form posts on each tool: <a href="https://ferhatatagun.com/blog">ferhatatagun.com/blog</a> · Suite overview: <a href="https://ferhatatagun.com/tools">ferhatatagun.com/tools</a></sub>
-</p>
+<sub>Long-form posts on each tool: <a href="https://ferhatatagun.com/blog">ferhatatagun.com/blog</a> · Suite overview: <a href="https://ferhatatagun.com/tools">ferhatatagun.com/tools</a></sub>
 
 ---
 
-### 🧰 Tech
+### `$ cat .stack`
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+```yaml
+languages:   TypeScript, JavaScript
+frameworks:  React, Next.js, SvelteKit
+styling:     Tailwind, Framer Motion
+runtime:     Node.js, edge functions
+api:         Anthropic Claude · Server-Sent Events · tool-use
+deploy:      Vercel, GitHub Pages
+```
 
 ---
 
-### 📈 Activity
+### `$ cat now.txt`
 
-<picture>
-  <img src="https://raw.githubusercontent.com/ferhatatagun/ferhatatagun/output/github-snake-dark.svg" alt="contribution snake" />
-</picture>
+Currently shipping: **context-lens** — pre-flight token counter for Claude prompts.
+Writing about: dev tools, LLM observability, BYOK patterns.
+Reading on: [ferhatatagun.com/blog](https://ferhatatagun.com/blog) · [dev.to/ferhatatagun](https://dev.to/ferhatatagun)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ferhatatagun&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatatagun&theme=dark&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
-<p align="center"><sub>Istanbul, Türkiye · open to interesting AI-native frontend work</sub></p>
+<sub>Istanbul, Türkiye · open to interesting AI-native frontend work.</sub>
