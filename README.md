@@ -27,6 +27,10 @@ make the Anthropic Claude API legible: prompt caching, token economics,
 agent tool-loops, side-by-side prompt A/B, and pre-flight token counting.
 All BYOK, no backend, source open.
 
+Browser-only and BYOK aren't stylistic choices — they're what's left when a tool
+has to work inside someone else's environment: no install, no data egress, and
+no backend for their security team to review.
+
 ---
 
 ### `$ ls -la /tools`
